@@ -1,8 +1,8 @@
-
+import Welcome from './welcome.jsx' 
 function App() {
 
   return (
-    <h1>Vite + React App</h1>
+    <Welcome/>
   )
 }
 
